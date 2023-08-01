@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello World, I'm Alex Sander
+
+As you can see, my name is Alex Sander. I'm an undergraduate student in physics at the Physics Institute of the University of São Paulo (IF-USP) and I'm also a chemical thecnician. I use the coding as a way to doing science and solving (at least try to) some issues that we can wheter or not solve in analitic ways. I hope you enjoy my personal (maybe professional) profile.
 
 <!--
 **Alexx-Sanderr/Alexx-Sanderr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
