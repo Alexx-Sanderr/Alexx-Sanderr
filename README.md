@@ -7,8 +7,8 @@ As you can see, my name is Alex Sander. I'm an undergraduate student in physics 
 ---
 <div display="inline" />
 <a href="https://github.com/Alexx-Sanderr" >
-<img width="420" src ="https://github-readme-stats.vercel.app/api?username=Alexx-Sanderr&theme=aura&include_all_commits=true&show_icons=true">
-<img width="420" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexx-Sanderr&theme=aura&layout=compact&lang_count=16">
+<img width="400" src ="https://github-readme-stats.vercel.app/api?username=Alexx-Sanderr&theme=aura&include_all_commits=true&show_icons=true">
+<img width="400" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexx-Sanderr&theme=aura&layout=compact&lang_count=16">
 </div>
   
 ---
