@@ -7,8 +7,8 @@ As you can see, my name is Alex Sander. I'm an undergraduate student in physics 
 ---
 <div display="inline" />
 <a href="https://github.com/Alexx-Sanderr" >
-<img width="400" src ="https://github-readme-stats.vercel.app/api?username=Alexx-Sanderr&theme=aura&include_all_commits=true&show_icons=true">
-<img width="400" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexx-Sanderr&theme=aura&layout=compact&lang_count=16">
+<img width="350" src ="https://github-readme-stats.vercel.app/api?username=Alexx-Sanderr&theme=aura&include_all_commits=true&show_icons=true">
+<img width="350" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexx-Sanderr&theme=aura&layout=compact&lang_count=16">
 </div>
   
 ---
@@ -18,7 +18,6 @@ As you can see, my name is Alex Sander. I'm an undergraduate student in physics 
 ### Programs:
 <div display="inline" />
   <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" /> 
-  <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
           
 ---
