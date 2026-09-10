@@ -1,16 +1,9 @@
 ### Hello World, I'm Alex Sander
 
-As you can see, my name is Alex Sander. I'm an undergraduate student in physics at the Physics Institute of the University of São Paulo (IF-USP) and I'm also a chemical thecnician. I use the coding as a way to doing science and solving (at least try to) some issues that we can wheter or not solve in analitic ways. I hope you enjoy my personal (maybe professional) profile.
+As you can see, my name is Alex Sander. I'm a graduate student in physics at the Physics Institute of the University of São Paulo (IF-USP), and I'm also a chemical technician. I use coding as a way of doing science and solving (at least trying to) some issues that we can either solve or not solve in analytical ways. I hope you enjoy my personal (maybe professional) profile.
 
-- **Scientific Initiation Student** in cosmology related to the [BINGO](https://bingotelescope.org/) project;
-
----
-<div display="inline" />
-<a href="https://github.com/Alexx-Sanderr" >
-<img width="450" src ="https://github-readme-stats.vercel.app/api?username=Alexx-Sanderr&theme=aura&include_all_commits=true&show_icons=true">
-<img width="450" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexx-Sanderr&theme=aura&layout=compact&lang_count=16">
-</div>
-  
+- **Masters Student** in cosmology related to the [BINGO](https://bingotelescope.org/) project;
+- 
 ---
 #### Languages:
 <div display="inline" />
